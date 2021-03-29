@@ -1,0 +1,10 @@
+{
+  // Where it says "Name" put the name of your extension.
+"name": "Chrome Extension",
+  // You can put any version you'd like but I'm going to put 1.0
+  "version": "1.0",
+  // Insert any description that will appear at chrome://extensions as the description.
+  "description": "This is a Chrome Extension made by xItzDiamondx",
+  // You really can play around with the manifest version.
+  "manifest_version": 2
+}
