@@ -1,3 +1,5 @@
+Before you read this, I encourage you to read README.md.
+
 Hello! I'm assuming that you'd like to create a Chrome Extension for the world, or for yourself. Here are the materials you need for making a extension!
 
 Materials:
@@ -31,4 +33,9 @@ Next is the manifest version, you really don't have to worry much about this tho
   
 Phew! That was a lot of programming! I encourage you to get a drink of water now.    
 
-Now, open a new tab in Chrome and type "***chrome://extensions***" Then in the top right corner of the page, click Developer Mode. If you can't turn it so it's on, you are in a account that is managed. If you fail to turn it on, I am very sorry, but you cannot participate in this tutorial. 
+  
+Now, open a new tab in Chrome and type "***chrome://extensions***" Then in the top right corner of the page, click Developer Mode. If you can't turn it so it's on, you are in a account that is managed. If you fail to turn it on, I am very sorry, but you cannot participate in this tutorial. Once you turn it on, click **LOAD UNPACKED** Then open the manifest.json from wherever you saved it in.  
+
+Congratulations! You have created your first Chrome Extension. It won't show a photo since we didn't include a image. A generic icon will be the image because we didn't give it one.  
+
+Even though we have the extension installed, it can not do anything because we haven't given it any sort of instruction yet.  
