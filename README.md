@@ -1,5 +1,13 @@
 # Chrome-Extension-Template
-
+[![](https://img.shields.io/github/stars/xItzDiamondx/Chrome-Extension-Template?color=blue&style=flat-square)](https://github.com/xItzDiamondx/Chrome-Extension-Template/stargazers) 
+[![](https://img.shields.io/github/forks/xItzDiamondx/Chrome-Extension-Template?color=blue&style=flat-square)](https://github.com/xItzDiamondx/website/network/members)
+[![](https://img.shields.io/github/watchers/xItzDiamondx/Chrome-Extension-Template?color=blue&style=flat-square)](https://github.com/xItzDiamondx/Chrome-Extension-Template/watchers) 
+[![](https://img.shields.io/github/issues/xItzDiamondx/Chrome-Extension-Template?color=green&style=flat-square)](https://github.com/xItzDiamondx/Chrome-Extension-Template/issues) 
+[![](https://img.shields.io/github/issues-pr/xItzDiamondx/Chrome-Extension-Template?color=green&style=flat-square)](https://github.com/xItzDiamondx/Chrome-Extension-Template/pulls)   
+[![](https://img.shields.io/github/v/release/xItzDiamondx/Chrome-Extension-Template?style=flat-square&logo=github&logoColor=white&label=version&color=181717)](https://github.com/xItzDiamondx/website/releases)
+[![](https://img.shields.io/github/downloads/xItzDiamondx/Chrome-Extension-Template/total?style=flat-square&logo=github&logoColor=white&label=downloads&color=181717)](https://github.com/xItzDiamondx/website/releases)
+[![](https://img.shields.io/badge/discuss-on_github-181717.svg?style=flat-square)](https://github.com/xItzDiamondx/Chrome-Extension-Template/discussions)
+[![](https://img.shields.io/badge/website-xitzdiamondx.github.io-logo.png?style=flat-square)](https://xitzdiamondx.github.io)
 Hello! I'm assuming that you'd like to create a Chrome Extension for the world, or for yourself. Here are the materials you need for making a extension!  
 
 Materials:
