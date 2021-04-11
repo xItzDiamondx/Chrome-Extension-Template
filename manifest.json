@@ -5,6 +5,6 @@
   "version": "1.0",
   // Insert any description that will appear at chrome://extensions as the description.
   "description": "This is a Chrome Extension made by xItzDiamondx",
-  // You really can play around with the manifest version.
-  "manifest_version": 2
+  // Manifest is the version of the information. The latest version as of April 2021 is Manifest 3.
+  "manifest_version": 3
 }
